@@ -10,11 +10,11 @@ assessment). The custom analysis modules created by the developer use both raw d
 
 outputs of built-in analysis modules. The following datasets are involved:
 
-  ● Raw sensor and SCADA data from a given wind farm
+	● Raw sensor and SCADA data from a given wind farm
 
-  ● Third-party raw or synthetic data
+	● Third-party raw or synthetic data
 
-  ● Analysis results from built-in analysis modules
+	● Analysis results from built-in analysis modules
 
 All data is in custom binary or ASCII formats. ASCII files contain a metadata header and in
 
